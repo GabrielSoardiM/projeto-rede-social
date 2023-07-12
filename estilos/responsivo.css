@@ -1,0 +1,21 @@
+@media(max-width: 1024px){
+    .telefone{
+        top: 40%;
+        left: 45%;
+    }
+}
+
+@media(max-width: 400px){
+    .telefone{
+        top: 45%;
+        left: 40%;
+    }
+
+    .redes-sociais{
+        margin: 0;
+    }
+
+    .redes-sociais img{
+        width: 40px;
+    }
+}
