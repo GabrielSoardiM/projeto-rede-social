@@ -1,0 +1,23 @@
+img{
+    margin-bottom: -5px;
+    width: 100vw;
+}
+
+a{
+    display: block;
+    background-color: darkgreen;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: green;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+    height: 0;
+}
